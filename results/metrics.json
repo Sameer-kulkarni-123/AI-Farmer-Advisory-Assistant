@@ -1,0 +1,24 @@
+{
+  "execution_date": "2026-11-06 06:23:50",
+  "total_test_cases": 45,
+  "model_used": "AgriFallbackAdapter (ICAR/KVK Grounded Engine)",
+  "translation_adapter": "AgriculturalIndicTranslator (Domain Vocabulary & Rule Adapter)",
+  "evaluation_summary": {
+    "overall_pass_rate": 62.22,
+    "groundedness_ratio": 100.0,
+    "factual_accuracy": 47.93,
+    "abstention_accuracy": 100.0
+  },
+  "retrieval_metrics": {
+    "precision_at_k": 0.3,
+    "recall_at_k": 0.9556,
+    "mean_reciprocal_rank": 0.8593
+  },
+  "translation_metrics": {
+    "avg_sentence_bleu": 0.8359,
+    "avg_chrf_score": 0.0245,
+    "evaluated_indic_samples": 9
+  },
+  "breakdown_by_category": {},
+  "failure_count": 17
+}

@@ -1,0 +1,12 @@
+{
+  "document_id": "icar_irrigation_001",
+  "title": "Drip and Micro-Irrigation Scheduling Protocol for Arid & Semi-Arid Crops",
+  "source": "ICAR - Central Arid Zone Research Institute (CAZRI), Jodhpur",
+  "source_url": "https://cazri.icar.gov.in/bulletin_micro_irrigation.pdf",
+  "crop": "Multiple Crops",
+  "category": "irrigation",
+  "region": "Western and Peninsular India (Rajasthan, Gujarat, Maharashtra, Karnataka)",
+  "language": "English",
+  "verified": true,
+  "content": "Drip irrigation delivers water directly to the plant root zone at low pressure (1.0 to 1.5 kg/cm2), achieving 90-95% water application efficiency compared to 35-40% in flood irrigation. Benefits: 40-60% water saving, 25-35% higher yield, 30% saving in fertilizer through fertigation, and reduced weed infestation. Design standards: Inline drippers with discharge 2 to 4 litres/hour spaced at 30-50 cm along lateral pipes. Operate filtration system (hydrocyclone sand filter for open wells, disc/screen filter for borewells) regularly to prevent clogging. Irrigation scheduling formula: Daily Water Requirement (litres/plant) = Pan Evaporation (Ep) x Crop Coefficient (Kc) x Canopy Area (m2) x Pan Factor (0.7). Critical caution: In saline water conditions, maintain soil moisture continuously above 70% field capacity to push salts towards the wetting front perimeter and avoid salt accumulation in the active root zone."
+}

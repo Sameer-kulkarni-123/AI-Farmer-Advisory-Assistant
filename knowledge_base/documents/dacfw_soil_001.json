@@ -1,0 +1,12 @@
+{
+  "document_id": "dacfw_soil_001",
+  "title": "Soil Health Management, Soil Testing Protocol & Micronutrient Guidelines",
+  "source": "Ministry of Agriculture & Farmers Welfare, Department of Agriculture & Farmers Welfare (DAC&FW)",
+  "source_url": "https://agricoop.nic.in/en/SoilHealthGuidelines",
+  "crop": "All Crops",
+  "category": "soil_health",
+  "region": "All-India",
+  "language": "English",
+  "verified": true,
+  "content": "Soil testing is the only scientific basis for balanced fertilizer application. Soil samples must be taken in a zigzag pattern across the field, collecting 10-15 sub-samples at 0-15 cm depth for field crops and 0-30 cm for horticultural crops. Mix thoroughly and composite to 500 grams using quartering method. Key soil parameters: Soil pH (<6.5 acidic, 6.5-7.5 neutral, >8.5 alkaline/sodic), Electrical Conductivity (EC <1.0 dS/m normal), Organic Carbon (OC <0.5% low, 0.5-0.75% medium, >0.75% high). Major nutrients: Available N (low <280 kg/ha, med 280-560 kg/ha), P2O5 (low <10 kg/ha, med 10-25 kg/ha), K2O (low <110 kg/ha, med 110-280 kg/ha). Secondary & Micronutrients: Critical limits: Zinc 0.6 ppm (DTPA-extractable), Iron 4.5 ppm, Boron 0.5 ppm. Soil amendments: For acid soils (pH <5.5), apply agricultural lime or dolomite based on lime requirement test. For sodic soils (pH >8.5, ESP >15%), apply gypsum based on gypsum requirement test. Mandatory rule: Never apply uncalibrated chemical fertilizers without testing soil; over-application of urea leads to groundwater nitrate contamination and soil acidification."
+}

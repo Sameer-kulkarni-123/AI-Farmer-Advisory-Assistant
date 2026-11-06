@@ -1,0 +1,222 @@
+[
+  {
+    "document_id": "icar_rice_001",
+    "title": "Package of Practices for Rice Cultivation in India",
+    "source": "ICAR - National Rice Research Institute (NRRI), Cuttack",
+    "source_url": "https://icar-nrri.nic.in/wp-content/uploads/2021/06/POP-Rice.pdf",
+    "crop": "Rice",
+    "category": "cultivation",
+    "region": "All-India (Kharif and Rabi)",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_rice_002",
+    "title": "Irrigation and Water Management in Lowland and Upland Rice",
+    "source": "ICAR - Indian Institute of Water Management (IIWM), Bhubaneswar",
+    "source_url": "https://iiwm.res.in/publications/bulletin_rice_water.pdf",
+    "crop": "Rice",
+    "category": "irrigation",
+    "region": "India",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_wheat_001",
+    "title": "Wheat Production Technology & Nutrient Protocol for NWPZ and NEPZ",
+    "source": "ICAR - Indian Institute of Wheat and Barley Research (IIWBR), Karnal",
+    "source_url": "https://iiwbr.icar.gov.in/wp-content/uploads/2022/10/Wheat-Production-Manual.pdf",
+    "crop": "Wheat",
+    "category": "cultivation",
+    "region": "North Western & North Eastern Plains (Punjab, Haryana, UP, Bihar)",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_wheat_002",
+    "title": "Crown Root Initiation and Critical Irrigation Scheduling in Wheat",
+    "source": "ICAR - Indian Agricultural Research Institute (IARI), New Delhi",
+    "source_url": "https://www.iari.res.in/files/Wheat_Water_Management.pdf",
+    "crop": "Wheat",
+    "category": "irrigation",
+    "region": "Indo-Gangetic Plains",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_maize_001",
+    "title": "Maize Cultivation Guide, Spacing and Nutrient Schedule",
+    "source": "ICAR - Indian Institute of Maize Research (IIMR), Ludhiana",
+    "source_url": "https://iimr.icar.gov.in/wp-content/uploads/2021/04/Maize-Production-Technology.pdf",
+    "crop": "Maize",
+    "category": "cultivation",
+    "region": "All-India (Kharif, Rabi, and Spring)",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_cotton_001",
+    "title": "Integrated Pest Management (IPM) in Cotton & Pink Bollworm Management",
+    "source": "ICAR - Central Institute for Cotton Research (CICR), Nagpur",
+    "source_url": "https://cicr.icar.gov.in/wp-content/uploads/2022/07/Cotton-IPM-Advisory.pdf",
+    "crop": "Cotton",
+    "category": "pest_management",
+    "region": "Central and Southern Cotton Growing Zones (Maharashtra, Gujarat, Telangana, Karnataka)",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_tomato_001",
+    "title": "Tomato Cultivation, Fertilizer Regimen & Early/Late Blight Management",
+    "source": "ICAR - Indian Institute of Horticultural Research (IIHR), Bengaluru",
+    "source_url": "https://iihr.res.in/content/tomato-production-and-plant-protection",
+    "crop": "Tomato",
+    "category": "cultivation",
+    "region": "Southern & Central India",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_potato_001",
+    "title": "Potato Production Technology, Seed Plot Technique & Late Blight Protocol",
+    "source": "ICAR - Central Potato Research Institute (CPRI), Shimla",
+    "source_url": "https://cpri.icar.gov.in/downloads/Potato_Technology_Manual.pdf",
+    "crop": "Potato",
+    "category": "cultivation",
+    "region": "Northern Plains and Plateau regions",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_groundnut_001",
+    "title": "Groundnut Cultivation, Gypsum Application and Pegging Stage Advisory",
+    "source": "ICAR - Directorate of Groundnut Research (DGR), Junagadh",
+    "source_url": "https://dgr.icar.gov.in/sites/default/files/groundnut_advisory.pdf",
+    "crop": "Groundnut",
+    "category": "cultivation",
+    "region": "Gujarat, Andhra Pradesh, Tamil Nadu, Karnataka, Rajasthan",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_pulses_001",
+    "title": "Chickpea (Bengal Gram) and Pigeonpea Production Practices",
+    "source": "ICAR - Indian Institute of Pulses Research (IIPR), Kanpur",
+    "source_url": "https://iipr.icar.gov.in/production_technology_pulses.pdf",
+    "crop": "Pulses",
+    "category": "cultivation",
+    "region": "Central, Western and Southern India",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_sugarcane_001",
+    "title": "Sugarcane Production, Trench Planting & Ratoon Crop Management",
+    "source": "ICAR - Indian Institute of Sugarcane Research (IISR), Lucknow",
+    "source_url": "https://iisr.icar.gov.in/iisr/sugarcane_handbook.pdf",
+    "crop": "Sugarcane",
+    "category": "cultivation",
+    "region": "Sub-tropical (UP, Bihar, Punjab) & Tropical (Maharashtra, TN, Karnataka)",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_soybean_001",
+    "title": "Soybean Package of Practices, Sowing Methods & Girdle Beetle Control",
+    "source": "ICAR - Indian Institute of Soybean Research (IISR), Indore",
+    "source_url": "https://iisrindore.icar.gov.in/production_guidelines_soybean.pdf",
+    "crop": "Soybean",
+    "category": "cultivation",
+    "region": "Madhya Pradesh, Maharashtra, Rajasthan, Karnataka",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "dacfw_soil_001",
+    "title": "Soil Health Management, Soil Testing Protocol & Micronutrient Guidelines",
+    "source": "Ministry of Agriculture & Farmers Welfare, Department of Agriculture & Farmers Welfare (DAC&FW)",
+    "source_url": "https://agricoop.nic.in/en/SoilHealthGuidelines",
+    "crop": "All Crops",
+    "category": "soil_health",
+    "region": "All-India",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_fertilizer_001",
+    "title": "Integrated Nutrient Management (INM) & Rational Fertilizer Usage Guidelines",
+    "source": "ICAR - Indian Institute of Soil Science (IISS), Bhopal",
+    "source_url": "https://iiss.icar.gov.in/fert_recommendations.pdf",
+    "crop": "All Crops",
+    "category": "fertilizer_management",
+    "region": "All-India",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_irrigation_001",
+    "title": "Drip and Micro-Irrigation Scheduling Protocol for Arid & Semi-Arid Crops",
+    "source": "ICAR - Central Arid Zone Research Institute (CAZRI), Jodhpur",
+    "source_url": "https://cazri.icar.gov.in/bulletin_micro_irrigation.pdf",
+    "crop": "Multiple Crops",
+    "category": "irrigation",
+    "region": "Western and Peninsular India (Rajasthan, Gujarat, Maharashtra, Karnataka)",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "icar_ncipm_001",
+    "title": "Integrated Pest Management (IPM) Core Principles & Pesticide Safety Manual",
+    "source": "ICAR - National Research Centre for Integrated Pest Management (NCIPM), New Delhi",
+    "source_url": "https://ncipm.icar.gov.in/publications/IPM_Framework_India.pdf",
+    "crop": "All Crops",
+    "category": "pest_management",
+    "region": "All-India",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "ncof_organic_001",
+    "title": "Organic Farming Practices, Compost Enriched Formulations & Bio-stimulants",
+    "source": "National Centre of Organic and Natural Farming (NCONF), Ghaziabad",
+    "source_url": "https://ncof.dacnet.nic.in/TechnicalBulletins/Organic_Farming_Manual.pdf",
+    "crop": "All Crops",
+    "category": "organic_farming",
+    "region": "All-India",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "gov_scheme_pmkisan_001",
+    "title": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) Operational Guidelines",
+    "source": "Ministry of Agriculture and Farmers Welfare, Government of India",
+    "source_url": "https://pmkisan.gov.in/Documents/Revised_Guidelines.pdf",
+    "crop": "All Crops",
+    "category": "government_schemes",
+    "region": "All-India",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "gov_scheme_pmfby_001",
+    "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY) Crop Insurance Operational Guidelines",
+    "source": "Ministry of Agriculture and Farmers Welfare, Government of India",
+    "source_url": "https://pmfby.gov.in/guidelines/revised_operational_guidelines.pdf",
+    "crop": "Food crops, Oilseeds, Commercial / Horticultural crops",
+    "category": "government_schemes",
+    "region": "All-India (Notified areas & crops)",
+    "language": "English",
+    "verified": true
+  },
+  {
+    "document_id": "gov_scheme_shc_001",
+    "title": "Soil Health Card Scheme & Soil Health Management Norms",
+    "source": "Department of Agriculture and Farmers Welfare, Government of India",
+    "source_url": "https://soilhealth.dac.gov.in/about/guidelines",
+    "crop": "All Crops",
+    "category": "government_schemes",
+    "region": "All-India",
+    "language": "English",
+    "verified": true
+  }
+]
